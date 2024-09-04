@@ -1,0 +1,4 @@
+baseURL: https://awesome-hugo.github.io/PaperMod/
+languageCode: en-us
+title: PaperMod
+theme: ["PaperMod"]
