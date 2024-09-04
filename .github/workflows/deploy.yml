@@ -37,7 +37,7 @@ jobs:
           cp -R public/* ${GITHUB_WORKSPACE}/built-site/
           cd ${GITHUB_WORKSPACE}/built-site
           git add .
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "tankvn"
+          git config --local user.email "tanvd357@gmail.com"
           git commit -m 'Updated site'
           git push
